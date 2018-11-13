@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\bin\Debug\netcoreapp2.1\HCHttpClient.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\bin\Debug\netcoreapp2.1\HCHttpClient.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\bin\Debug\netcoreapp2.1\HCHttpClient.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\bin\Debug\netcoreapp2.1\HCHttpClient.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\obj\Debug\netcoreapp2.1\HCHttpClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\obj\Debug\netcoreapp2.1\HCHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\obj\Debug\netcoreapp2.1\HCHttpClient.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\obj\Debug\netcoreapp2.1\HCHttpClient.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\bin\Debug\netcoreapp2.1\HCHttpClient.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\obj\Debug\netcoreapp2.1\HCHttpClient.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\HCHttpClient\obj\Debug\netcoreapp2.1\HCHttpClient.pdb

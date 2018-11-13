@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\httpClient.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\httpClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\httpClient.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\httpClient.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\httpClient.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\httpClient.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\httpClient.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\httpClient.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\httpClient.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\httpClient.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\httpClient.pdb

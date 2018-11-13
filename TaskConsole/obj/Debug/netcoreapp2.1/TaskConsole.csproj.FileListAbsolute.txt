@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\bin\Debug\netcoreapp2.1\TaskConsole.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\bin\Debug\netcoreapp2.1\TaskConsole.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\bin\Debug\netcoreapp2.1\TaskConsole.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\bin\Debug\netcoreapp2.1\TaskConsole.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\bin\Debug\netcoreapp2.1\TaskConsole.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\obj\Debug\netcoreapp2.1\TaskConsole.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\obj\Debug\netcoreapp2.1\TaskConsole.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\obj\Debug\netcoreapp2.1\TaskConsole.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\obj\Debug\netcoreapp2.1\TaskConsole.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\obj\Debug\netcoreapp2.1\TaskConsole.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\TaskConsole\obj\Debug\netcoreapp2.1\TaskConsole.pdb

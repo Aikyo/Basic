@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\bin\Debug\netcoreapp2.1\EntityFramework1.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\bin\Debug\netcoreapp2.1\EntityFramework1.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\bin\Debug\netcoreapp2.1\EntityFramework1.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\bin\Debug\netcoreapp2.1\EntityFramework1.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\EntityFramework1\obj\Debug\netcoreapp2.1\EntityFramework1.RazorTargetAssemblyInfo.cache

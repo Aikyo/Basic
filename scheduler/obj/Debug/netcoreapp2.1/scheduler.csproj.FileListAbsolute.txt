@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\scheduler.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\scheduler.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\scheduler.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\scheduler.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\scheduler.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\obj\Debug\netcoreapp2.1\scheduler.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\Connection.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\scheduler\bin\Debug\netcoreapp2.1\Connection.pdb

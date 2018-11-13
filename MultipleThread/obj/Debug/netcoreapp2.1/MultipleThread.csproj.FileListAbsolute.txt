@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\bin\Debug\netcoreapp2.1\MultipleThread.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\bin\Debug\netcoreapp2.1\MultipleThread.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\bin\Debug\netcoreapp2.1\MultipleThread.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\bin\Debug\netcoreapp2.1\MultipleThread.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\bin\Debug\netcoreapp2.1\MultipleThread.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\obj\Debug\netcoreapp2.1\MultipleThread.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\obj\Debug\netcoreapp2.1\MultipleThread.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\obj\Debug\netcoreapp2.1\MultipleThread.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\obj\Debug\netcoreapp2.1\MultipleThread.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\obj\Debug\netcoreapp2.1\MultipleThread.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\MultipleThread\obj\Debug\netcoreapp2.1\MultipleThread.pdb

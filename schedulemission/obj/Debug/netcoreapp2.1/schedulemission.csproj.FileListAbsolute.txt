@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\bin\Debug\netcoreapp2.1\schedulemission.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\bin\Debug\netcoreapp2.1\schedulemission.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\bin\Debug\netcoreapp2.1\schedulemission.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\bin\Debug\netcoreapp2.1\schedulemission.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\obj\Debug\netcoreapp2.1\schedulemission.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\obj\Debug\netcoreapp2.1\schedulemission.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\obj\Debug\netcoreapp2.1\schedulemission.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\obj\Debug\netcoreapp2.1\schedulemission.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\bin\Debug\netcoreapp2.1\schedulemission.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\obj\Debug\netcoreapp2.1\schedulemission.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\schedulemission\obj\Debug\netcoreapp2.1\schedulemission.pdb

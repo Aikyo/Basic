@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\bin\Debug\netcoreapp2.1\Connection.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\bin\Debug\netcoreapp2.1\Connection.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\bin\Debug\netcoreapp2.1\Connection.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\bin\Debug\netcoreapp2.1\Connection.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\obj\Debug\netcoreapp2.1\Connection.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\obj\Debug\netcoreapp2.1\Connection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\obj\Debug\netcoreapp2.1\Connection.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\obj\Debug\netcoreapp2.1\Connection.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\bin\Debug\netcoreapp2.1\Connection.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\obj\Debug\netcoreapp2.1\Connection.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\Connection\obj\Debug\netcoreapp2.1\Connection.pdb

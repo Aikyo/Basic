@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\bin\Debug\netcoreapp2.1\FluentSchedule.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\bin\Debug\netcoreapp2.1\FluentSchedule.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\bin\Debug\netcoreapp2.1\FluentSchedule.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\bin\Debug\netcoreapp2.1\FluentSchedule.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\bin\Debug\netcoreapp2.1\FluentSchedule.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\obj\Debug\netcoreapp2.1\FluentSchedule.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\obj\Debug\netcoreapp2.1\FluentSchedule.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\obj\Debug\netcoreapp2.1\FluentSchedule.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\obj\Debug\netcoreapp2.1\FluentSchedule.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\obj\Debug\netcoreapp2.1\FluentSchedule.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\FluentSchedule\obj\Debug\netcoreapp2.1\FluentSchedule.csprojAssemblyReference.cache

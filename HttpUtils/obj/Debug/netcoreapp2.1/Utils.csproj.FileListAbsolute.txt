@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\bin\Debug\netcoreapp2.1\Utils.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\bin\Debug\netcoreapp2.1\Utils.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\bin\Debug\netcoreapp2.1\Utils.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\bin\Debug\netcoreapp2.1\Utils.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\obj\Debug\netcoreapp2.1\Utils.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\obj\Debug\netcoreapp2.1\Utils.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\obj\Debug\netcoreapp2.1\Utils.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\bin\Debug\netcoreapp2.1\Utils.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\obj\Debug\netcoreapp2.1\Utils.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\HttpUtils\obj\Debug\netcoreapp2.1\Utils.pdb

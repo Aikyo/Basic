@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\bin\Debug\netcoreapp2.1\ScheduleTest.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\bin\Debug\netcoreapp2.1\ScheduleTest.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\bin\Debug\netcoreapp2.1\ScheduleTest.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\bin\Debug\netcoreapp2.1\ScheduleTest.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\bin\Debug\netcoreapp2.1\ScheduleTest.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\ScheduleTest\obj\Debug\netcoreapp2.1\ScheduleTest.pdb

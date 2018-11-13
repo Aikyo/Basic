@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\Wechat.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\Wechat.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\Wechat.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\Wechat.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\Wechat.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\HCHttpClient.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\bin\Debug\netcoreapp2.1\HCHttpClient.pdb
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.csproj.CopyComplete
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.dll
+C:\Users\Administrator\source\repos\ConsoleApp1\Wechat\obj\Debug\netcoreapp2.1\Wechat.pdb
